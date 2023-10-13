@@ -16,3 +16,6 @@ Set up an API Gateway endpoint: Create an API Gateway endpoint to serve as the e
 Enable CORS for cross-domain requests: CORS (Cross-Origin Resource Sharing) allows your web application hosted on AWS S3 to make requests to your API Gateway endpoint. Configure CORS settings to ensure the proper communication between your static website and the API Gateway.
 
 Host the static website on AWS S3: Set up an AWS S3 bucket and configure it to host your static website. Upload your HTML, CSS, and JavaScript files to the S3 bucket.
+
+
+![image](https://github.com/gautam99vishwa/serverless-web-app/assets/103621752/b86d31e6-5868-4ede-8ec8-4b4d9758e40d)
